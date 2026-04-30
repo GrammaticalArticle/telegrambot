@@ -1,0 +1,49 @@
+[
+    {
+        "name": "Harry Potter and the Philosopher's Stone",
+        "description": "Harry Potter and the Philosopher's Stone (also known as Harry Potter and the Sorcerer's Stone in the United States) is a 2001 fantasy film directed by Chris Columbus and produced by David Heyman, from a screenplay by Steve Kloves, based on the 1997 novel of the same name by J. K. Rowling. It is the first instalment in the Harry Potter film series. The film stars Daniel Radcliffe as Harry Potter, with Rupert Grint as Ron Weasley, and Emma Watson as Hermione Granger. Its story follows Harry's first year at Hogwarts School of Witchcraft and Wizardry as he discovers that he is a famous wizard and begins his formal wizarding education.",
+        "rating": 7.1,
+        "genre": "Fantasy",
+        "actors": [
+            "Daniel Radcliffe",
+            "Rupert Grint",
+            "Emma Watson",
+            "John Cleese",
+            "Robbie Coltrane",
+            "Warwick Davis",
+            "Richard Griffiths",
+            "Richard Harris",
+            "Ian Hart",
+            "John Hurt",
+            "Alan Rickman",
+            "Fiona Shaw",
+            "Maggie Smith",
+            "Julie Walters"
+        ],
+        "poster": "https://media.posterstore.com/site_images/68631ac97d2ae084e18280b6_818168986_WB0001-5.jpg"
+    },
+    {
+        "name": "Garfield: The Movie",
+        "description": "Garfield: The Movie is a 2004 American comedy film based on Jim Davis' comic strip Garfield. Directed by Peter Hewitt and written by Joel Cohen and Alec Sokolow, it stars Breckin Meyer as Jon Arbuckle, Jennifer Love Hewitt as Dr. Liz Wilson and features Bill Murray as the voice of Garfield, who was created with computer-generated imagery.",
+        "rating": 7.9,
+        "genre": "Fantasy",
+        "actors": [
+            "Breckin Meyer",
+            "Jennifer Love Hewitt",
+            "Stephen Tobolowsky",
+            "Bill Murray"
+        ],
+        "poster": "https://m.media-amazon.com/images/S/pv-target-images/9552935dbc42f282810b432318ec0dad3717f4c743caf56e92ac10040a67f675.jpg"
+    },
+    {
+        "name": "Movie name",
+        "description": "Movie description",
+        "rating": 8.3,
+        "genre": "Sci-fi",
+        "actors": [
+            "A",
+            "B"
+        ],
+        "poster": "https://s.studiobinder.com/wp-content/uploads/2019/06/Movie-Poster-Template-Movie-Credits-StudioBinder.jpg"
+    }
+]
