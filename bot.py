@@ -2,26 +2,20 @@ import asyncio
 import logging
 import sys
 
-from aiogram import types
-
-from aiogram import Bot, Dispatcher, html
+from aiogram import types, Bot, Dispatcher, html
 from aiogram.client.default import DefaultBotProperties
 from aiogram.enums import ParseMode
 from aiogram.filters import CommandStart, Command
-from aiogram.types import Message, ReplyKeyboardRemove
+from aiogram.types import Message, ReplyKeyboardRemove, CallbackQuery, URLInputFile
 
 from aiogram.fsm.context import FSMContext
 from aiogram.fsm.state import State, StatesGroup
 
 from config import BOT_TOKEN as TOKEN
 from data import get_films, add_film, update_film_rating
-from keyboards import films_keyboard_markup
-
 from keyboards import films_keyboard_markup, FilmCallback
-from aiogram.types import Message, CallbackQuery
 
 from models import Film
-from aiogram.types import URLInputFile
 
 from commands import (
    FILMS_COMMAND, 
